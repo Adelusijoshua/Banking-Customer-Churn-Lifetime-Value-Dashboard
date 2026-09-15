@@ -116,8 +116,6 @@ A simulated **20% improvement in retention effectiveness**, targeting 50% of hig
 ## 📁 Repository Contents
  
 ```
-├── Bank_Churn_Dashboard.pbix           # Power BI source file
-├── Bank_Churn_Dashboard.pdf            # Exported PDF walkthrough of the dashboard
 ├── 01-churn-overview.png               # Dashboard screenshot — Churn Overview
 ├── 02-churn-drivers.png                # Dashboard screenshot — Churn Drivers
 ├── 03-customer-segmentation.png        # Dashboard screenshot — Customer Segmentation
@@ -125,6 +123,9 @@ A simulated **20% improvement in retention effectiveness**, targeting 50% of hig
 ├── 05-lifetime-value-analysis.png      # Dashboard screenshot — Lifetime Value Analysis
 ├── 06-executive-summary.png            # Dashboard screenshot — Executive Summary
 ├── 07-what-if-analysis.png             # Dashboard screenshot — What-If Analysis
+├── Bank_Churn.xlsx                     # Dataset Excel source file
+├── Bank_Churn_Dashboard.pbix           # Power BI source file
+├── Bank_Churn_Dashboard.pdf            # Exported PDF walkthrough of the dashboard
 └── README.md                           # Project documentation (this file)
 ```
  
